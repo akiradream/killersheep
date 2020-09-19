@@ -18,13 +18,7 @@ Plug 'vim/killersheep'
 
 Or download the files using the zip archive, and unpack them in your
 pack directory `~/.vim/pack/mine/opt/killersheep/`.
-Then load the pack manually with:
-
-```vim
-packadd killersheep
-```
-
-Or put this in your vimrc:
+Then load the pack with:
 
 ```vim
 packadd! killersheep
